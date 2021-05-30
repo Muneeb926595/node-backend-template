@@ -1,0 +1,14 @@
+{
+  "baseUrl": "/server/",
+  "name": "projectname-api",
+  "port": 3000,
+  "jwtPrivateKey": "123",
+  "host": "http://localhost",
+  "DataBase_Name": "projectname",
+  "mongoDb": {
+    "uri": "mongodb://localhost/foodbook",
+    "port": "27017",
+    "username": "username",
+    "password": "password db"
+  }
+}
